@@ -3,4 +3,4 @@
 
 ## Data Dictionary
 
-![data dictionary](CAPTURE.PNG "Data Dictionary")
+![data dictionary](CAPTURE.PNG)
