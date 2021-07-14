@@ -11,3 +11,8 @@ Finally, the API can create a mobile application that students and faculty can u
 ## Data Dictionary
 
 ![Screenshot](/Capture.JPG)
+
+## ERD
+
+![Screenshot](/erd.JPG)
+
