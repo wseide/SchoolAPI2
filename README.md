@@ -14,5 +14,5 @@ Finally, the API can create a mobile application that students and faculty can u
 
 ## ERD
 
-![Screenshot](/erd.JPG)
+![Screenshot2](/erd.jpg)
 
